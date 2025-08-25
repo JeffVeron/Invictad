@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg 
+xmlns="http://www.w3.org/2000/svg" 
+viewBox="0 0 500 500"
+ preserveAspectRatio="none"
+ >    
+ <!-- <defs>
+ <bx:export>
+ <bx:file format="svg" path="Frame .svg" units="%"/>
+ </bx:export>
+ </defs> -->       
+ <path style="stroke: rgb(0, 0, 0); 
+ fill: none;
+  stroke-width: 8px; 
+  stroke-linecap: round;" 
+  d="M 36.364 53.345 L 426.072 54.031 L 461.063 82.161 L 461.063 195.369 L 438.422 219.383 L 337.564 220.755 L 317.667 198.113 L 82.333 201.543 L 38.422 173.413 L 36.364 53.345 Z"/>
+ <path
+  style="stroke: rgb(0, 0, 0);
+   fill: none;
+    stroke-width: 8px;
+     stroke-linecap: round;"
+      d="M 37.049 200.172 L 80.275 233.791 L 286.106 233.105"/>
+ <path 
+ style="fill: rgb(216, 216, 216); 
+ stroke: rgb(0, 0, 0);
+  stroke-width: 8px;
+   stroke-linecap: round;
+   " d="M 115.266 209.777 L 135.163 229.674"/>
+ <path 
+ style="fill: rgb(216, 216, 216);
+  stroke: rgb(0, 0, 0); 
+  stroke-width: 8px; 
+  stroke-linecap: round;
+  " d="M 141.338 209.777 L 159.177 227.616"/>
+ <path 
+ style="fill: rgb(216, 216, 216); 
+ stroke: rgb(0, 0, 0);
+  stroke-width: 8px; 
+  stroke-linecap: round;"
+   d="M 172.213 207.033 L 189.365 225.557"
+   />
+ <path 
+ style="fill: rgb(216, 216, 216);
+  stroke: rgb(0, 0, 0); 
+  stroke-width: 8px; 
+  stroke-linecap: round;"
+   d="M 196.227 207.033 L 212.007 224.871"
+   />
+ <path 
+ style="fill: rgb(216, 216, 216); 
+ stroke: rgb(0, 0, 0);
+  stroke-width: 8px; 
+  stroke-linecap: round;"
+   d="M 220.927 209.091 L 233.962 224.871"/>
+</svg>

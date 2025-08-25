@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" xmlns:bx="https://boxy-svg.com" preserveAspectRatio="none">
+  <defs>
+    <bx:export>
+      <bx:file format="svg" path="Frame3.svg" units="%"/>
+    </bx:export>
+  </defs>
+  <path 
+  style="
+  stroke: rgb(0, 0, 0); 
+  &#10;   fill: none; &#10; 
+    stroke-width: 10px;"
+     d="M 19.897 45.112 L 83.019 45.111 L 104.288 65.009 L 207.204 65.008"
+     />
+  <path
+   style="&#10; 
+       stroke: rgb(0, 0, 0);&#10; 
+            fill: none; &#10;     
+             stroke-width: 10px;" 
+             none;="" 10px;"=""
+              d="M 4.117 328.473 L 39.108 329.159 L 77.53 310.635 L 193.482 311.321
+              "/>
+  <path
+   style="&#10;     
+       stroke: rgb(0, 0, 0);&#10; 
+                fill: none; &#10; 
+                         stroke-width: 10px;"
+   d="M 334.82 91.767 L 351.286 106.861 L 464.494 108.233 L 461.75 235.849 L 426.072 250.257 L 425.386 270.84"
+   />
+  <path
+   style="fill: rgb(216, 216, 216);&#10;
+             stroke: rgb(0, 0, 0); &#10;    
+            stroke-width: 10px;" 
+            d="M 292.281 97.942 L 314.923 117.839"
+            />
+  <path 
+  style="&#10;        
+     fill: rgb(216, 216, 216);&#10;           
+      stroke: rgb(0, 0, 0); &#10;            
+      stroke-width: 10px;"
+       d="M 314.923 96.569 L 338.937 117.153"/>
+  <path
+   style="stroke: rgb(0, 0, 0);
+    fill: none;
+     stroke-width: 8px;"
+      d="M 27.444 116.467 C 27.444 116.467 27.445 296.226 27.445 296.226 L 408.919 293.482 L 415.094 234.477 L 443.911 219.383 L 443.225 134.991 L 292.281 128.816 L 258.662 85.592 L 28.817 85.592 L 27.444 116.467 Z
+      "/>
+</svg>

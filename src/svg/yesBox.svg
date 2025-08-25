@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <path style="fill: rgb(216, 216, 216); mix-blend-mode: multiply; stroke: rgb(198, 10, 10); stroke-width: 5px;" d="M 81.081 80.33 L 386.637 80.33 L 385.135 216.216 L 80.33 219.97 L 81.081 80.33 Z"/>
+  <path style="fill: rgb(216, 216, 216); mix-blend-mode: multiply; stroke: rgb(216, 25, 25); stroke-width: 5px;" d="M 81.081 53.303 L 159.159 54.054 L 172.673 69.069 L 225.976 68.318 L 237.988 52.553 L 361.862 54.054 L 406.156 72.072 L 406.907 129.88"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(222, 24, 24); stroke-width: 5px;" d="M 406.907 144.144 L 406.907 161.411"/>
+  <path style="fill: rgb(216, 216, 216); mix-blend-mode: multiply; stroke: rgb(238, 13, 13); stroke-width: 5px;" d="M 406.907 174.174 L 406.907 212.462 L 376.877 240.24 L 289.039 242.492 L 275.526 232.733 L 223.724 231.982 L 210.961 244.745 L 93.53 246.823 L 55.556 219.97 L 57.057 177.928"/>
+  <path style="fill: rgb(216, 216, 216); mix-blend-mode: multiply; stroke: rgb(174, 16, 16); stroke-width: 5px;" d="M 59.309 167.06 L 59.309 144.144"/>
+  <path style="fill: rgb(216, 216, 216); mix-blend-mode: multiply; stroke: rgb(227, 19, 19); stroke-width: 5px;" d="M 59.309 129.129 L 59.309 91.592 L 80.33 52.553"/>
+  <path style="fill: rgb(216, 216, 216); mix-blend-mode: multiply; stroke-width: 3px; stroke: rgb(185, 31, 31);" d="M 138.889 66.817 L 80.33 67.567 L 66.817 91.592 L 66.817 161.411"/>
+  <path style="fill: rgb(216, 216, 216); mix-blend-mode: multiply; stroke: rgb(229, 40, 40); stroke-width: 3px;" d="M 72.997 132.911 L 72.997 174.174 L 66.817 181.625 L 66.817 219.97 L 92.247 237.802 L 197.138 238.195 L 210.495 226.41 L 277.28 225.231 L 294.958 236.231 L 373.921 233.874 L 397.492 213.053 L 397.886 174.174"/>
+</svg>
